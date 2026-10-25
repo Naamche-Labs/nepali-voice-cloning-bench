@@ -1,0 +1,58 @@
+{
+ "swar_raw": {
+  "name": "swar_raw",
+  "track": "raw",
+  "n": 82,
+  "cer": 4.58,
+  "voice_match": 0.694,
+  "utmos": 2.39
+ },
+ "omnivoice_raw": {
+  "name": "omnivoice_raw",
+  "track": "raw",
+  "n": 82,
+  "cer": 5.28,
+  "voice_match": 0.681,
+  "utmos": 2.49
+ },
+ "indicf5_raw": {
+  "name": "indicf5_raw",
+  "track": "raw",
+  "n": 82,
+  "cer": 8.59,
+  "voice_match": 0.651,
+  "utmos": 2.35
+ },
+ "swar_clean": {
+  "name": "swar_clean",
+  "track": "clean",
+  "n": 82,
+  "cer": 4.55,
+  "voice_match": 0.691,
+  "utmos": 2.67
+ },
+ "omnivoice_clean": {
+  "name": "omnivoice_clean",
+  "track": "clean",
+  "n": 82,
+  "cer": 4.89,
+  "voice_match": 0.676,
+  "utmos": 2.53
+ },
+ "indicf5_clean": {
+  "name": "indicf5_clean",
+  "track": "clean",
+  "n": 82,
+  "cer": 8.44,
+  "voice_match": 0.663,
+  "utmos": 2.63
+ },
+ "real_recordings": {
+  "name": "real_recordings",
+  "track": "raw",
+  "n": 82,
+  "cer": 9.77,
+  "voice_match": 0.74,
+  "utmos": 2.24
+ }
+}
