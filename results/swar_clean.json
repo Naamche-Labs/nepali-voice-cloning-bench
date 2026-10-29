@@ -2,9 +2,9 @@
  "name": "swar_clean",
  "track": "clean",
  "n": 82,
- "cer": 4.55,
- "voice_match": 0.691,
- "utmos": 2.67,
+ "cer": 4.72,
+ "voice_match": 0.697,
+ "utmos": 2.71,
  "rows": [
   {
    "id": "000",
@@ -662,5 +662,13 @@
    "sim": 0.8014718294143677,
    "utmos": 2.3157846927642822
   }
- ]
+ ],
+ "n_pairs": 64,
+ "per_item": {
+  "n": 82,
+  "cer": 4.55,
+  "voice_match": 0.691,
+  "utmos": 2.67
+ },
+ "version": "1.1"
 }

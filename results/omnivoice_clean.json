@@ -2,9 +2,9 @@
  "name": "omnivoice_clean",
  "track": "clean",
  "n": 82,
- "cer": 4.89,
- "voice_match": 0.676,
- "utmos": 2.53,
+ "cer": 5.08,
+ "voice_match": 0.683,
+ "utmos": 2.62,
  "rows": [
   {
    "id": "000",
@@ -662,5 +662,13 @@
    "sim": 0.7825050354003906,
    "utmos": 2.439436197280884
   }
- ]
+ ],
+ "n_pairs": 64,
+ "per_item": {
+  "n": 82,
+  "cer": 4.89,
+  "voice_match": 0.676,
+  "utmos": 2.53
+ },
+ "version": "1.1"
 }

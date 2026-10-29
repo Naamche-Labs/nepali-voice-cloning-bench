@@ -2,9 +2,9 @@
  "name": "indicf5_raw",
  "track": "raw",
  "n": 82,
- "cer": 8.59,
- "voice_match": 0.651,
- "utmos": 2.35,
+ "cer": 8.49,
+ "voice_match": 0.659,
+ "utmos": 2.43,
  "rows": [
   {
    "id": "000",
@@ -662,5 +662,13 @@
    "sim": 0.7431690692901611,
    "utmos": 2.0353775024414062
   }
- ]
+ ],
+ "n_pairs": 64,
+ "per_item": {
+  "n": 82,
+  "cer": 8.59,
+  "voice_match": 0.651,
+  "utmos": 2.35
+ },
+ "version": "1.1"
 }

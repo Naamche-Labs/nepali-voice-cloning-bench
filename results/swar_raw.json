@@ -2,9 +2,9 @@
  "name": "swar_raw",
  "track": "raw",
  "n": 82,
- "cer": 4.58,
- "voice_match": 0.694,
- "utmos": 2.39,
+ "cer": 4.59,
+ "voice_match": 0.7,
+ "utmos": 2.46,
  "rows": [
   {
    "id": "000",
@@ -662,5 +662,13 @@
    "sim": 0.8192250728607178,
    "utmos": 1.6197612285614014
   }
- ]
+ ],
+ "n_pairs": 64,
+ "per_item": {
+  "n": 82,
+  "cer": 4.58,
+  "voice_match": 0.694,
+  "utmos": 2.39
+ },
+ "version": "1.1"
 }

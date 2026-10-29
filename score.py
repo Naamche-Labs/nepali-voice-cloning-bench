@@ -100,6 +100,7 @@ def main():
     os.makedirs("results", exist_ok=True)
     json.dump(res, open(f"results/{a.name}.json", "w"), ensure_ascii=False, indent=1)
     print(f"{a.name} [{a.track}]  CER {res['cer']:.2f}  voice match {res['voice_match']:.3f}  UTMOS {res['utmos']:.2f}  (n={n})")
+    print("per item (v1.0). For the v1.1 headline, each distinct prompt + sentence pair counted once, run: python summarize.py")
 
 
 if __name__ == "__main__":

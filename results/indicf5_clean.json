@@ -2,9 +2,9 @@
  "name": "indicf5_clean",
  "track": "clean",
  "n": 82,
- "cer": 8.44,
- "voice_match": 0.663,
- "utmos": 2.63,
+ "cer": 8.3,
+ "voice_match": 0.669,
+ "utmos": 2.67,
  "rows": [
   {
    "id": "000",
@@ -662,5 +662,13 @@
    "sim": 0.7585057020187378,
    "utmos": 2.4270949363708496
   }
- ]
+ ],
+ "n_pairs": 64,
+ "per_item": {
+  "n": 82,
+  "cer": 8.44,
+  "voice_match": 0.663,
+  "utmos": 2.63
+ },
+ "version": "1.1"
 }

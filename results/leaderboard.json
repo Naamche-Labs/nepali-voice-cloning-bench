@@ -1,58 +1,107 @@
 {
- "swar_raw": {
-  "name": "swar_raw",
-  "track": "raw",
-  "n": 82,
-  "cer": 4.58,
-  "voice_match": 0.694,
-  "utmos": 2.39
- },
- "omnivoice_raw": {
-  "name": "omnivoice_raw",
-  "track": "raw",
-  "n": 82,
-  "cer": 5.28,
-  "voice_match": 0.681,
-  "utmos": 2.49
+ "indicf5_clean": {
+  "name": "indicf5_clean",
+  "track": "clean",
+  "n_pairs": 64,
+  "cer": 8.3,
+  "voice_match": 0.669,
+  "utmos": 2.67,
+  "per_item": {
+   "n": 82,
+   "cer": 8.44,
+   "voice_match": 0.663,
+   "utmos": 2.63
+  },
+  "version": "1.1"
  },
  "indicf5_raw": {
   "name": "indicf5_raw",
   "track": "raw",
-  "n": 82,
-  "cer": 8.59,
-  "voice_match": 0.651,
-  "utmos": 2.35
- },
- "swar_clean": {
-  "name": "swar_clean",
-  "track": "clean",
-  "n": 82,
-  "cer": 4.55,
-  "voice_match": 0.691,
-  "utmos": 2.67
+  "n_pairs": 64,
+  "cer": 8.49,
+  "voice_match": 0.659,
+  "utmos": 2.43,
+  "per_item": {
+   "n": 82,
+   "cer": 8.59,
+   "voice_match": 0.651,
+   "utmos": 2.35
+  },
+  "version": "1.1"
  },
  "omnivoice_clean": {
   "name": "omnivoice_clean",
   "track": "clean",
-  "n": 82,
-  "cer": 4.89,
-  "voice_match": 0.676,
-  "utmos": 2.53
+  "n_pairs": 64,
+  "cer": 5.08,
+  "voice_match": 0.683,
+  "utmos": 2.62,
+  "per_item": {
+   "n": 82,
+   "cer": 4.89,
+   "voice_match": 0.676,
+   "utmos": 2.53
+  },
+  "version": "1.1"
  },
- "indicf5_clean": {
-  "name": "indicf5_clean",
-  "track": "clean",
-  "n": 82,
-  "cer": 8.44,
-  "voice_match": 0.663,
-  "utmos": 2.63
+ "omnivoice_raw": {
+  "name": "omnivoice_raw",
+  "track": "raw",
+  "n_pairs": 64,
+  "cer": 5.34,
+  "voice_match": 0.689,
+  "utmos": 2.6,
+  "per_item": {
+   "n": 82,
+   "cer": 5.28,
+   "voice_match": 0.681,
+   "utmos": 2.49
+  },
+  "version": "1.1"
  },
  "real_recordings": {
   "name": "real_recordings",
   "track": "raw",
-  "n": 82,
-  "cer": 9.77,
-  "voice_match": 0.74,
-  "utmos": 2.24
+  "n_pairs": 64,
+  "cer": 10.3,
+  "voice_match": 0.742,
+  "utmos": 2.32,
+  "per_item": {
+   "n": 82,
+   "cer": 9.77,
+   "voice_match": 0.74,
+   "utmos": 2.24
+  },
+  "version": "1.1"
+ },
+ "swar_clean": {
+  "name": "swar_clean",
+  "track": "clean",
+  "n_pairs": 64,
+  "cer": 4.72,
+  "voice_match": 0.697,
+  "utmos": 2.71,
+  "per_item": {
+   "n": 82,
+   "cer": 4.55,
+   "voice_match": 0.691,
+   "utmos": 2.67
+  },
+  "version": "1.1"
+ },
+ "swar_raw": {
+  "name": "swar_raw",
+  "track": "raw",
+  "n_pairs": 64,
+  "cer": 4.59,
+  "voice_match": 0.7,
+  "utmos": 2.46,
+  "per_item": {
+   "n": 82,
+   "cer": 4.58,
+   "voice_match": 0.694,
+   "utmos": 2.39
+  },
+  "version": "1.1"
  }
 }

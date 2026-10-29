@@ -2,9 +2,9 @@
  "name": "real_recordings",
  "track": "raw",
  "n": 82,
- "cer": 9.77,
- "voice_match": 0.74,
- "utmos": 2.24,
+ "cer": 10.3,
+ "voice_match": 0.742,
+ "utmos": 2.32,
  "rows": [
   {
    "id": "000",
@@ -662,5 +662,13 @@
    "sim": 0.8299002051353455,
    "utmos": 1.451634168624878
   }
- ]
+ ],
+ "n_pairs": 64,
+ "per_item": {
+  "n": 82,
+  "cer": 9.77,
+  "voice_match": 0.74,
+  "utmos": 2.24
+ },
+ "version": "1.1"
 }
